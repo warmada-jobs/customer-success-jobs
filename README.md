@@ -1,16 +1,16 @@
 # US Customer Success Jobs
 
-Open customer success roles at US employers: 177 customer success roles at 122 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=customer-success).** Last updated 2026-11-08.
+Open customer success roles at US employers: 171 customer success roles at 118 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=customer-success).** Last updated 2026-11-09.
 
-All 177 are listed below. Browse the newest on [warmada.com/jobs/customer-success](https://warmada.com/jobs/customer-success?utm_source=github&utm_medium=list&utm_campaign=customer-success).
+All 171 are listed below. Browse the newest on [warmada.com/jobs/customer-success](https://warmada.com/jobs/customer-success?utm_source=github&utm_medium=list&utm_campaign=customer-success).
 
-**By city:** New York (28) · San Francisco (26) · Seattle (2) · Austin (4) · Chicago (5) · Los Angeles (3) · Denver (4) · Washington, DC (1) · Atlanta (1) · Dallas (1) · Miami (1) · Philadelphia (1) · Remote (69) · Elsewhere in the US (31)
+**By city:** New York (27) · San Francisco (26) · Seattle (2) · Austin (4) · Chicago (5) · Los Angeles (3) · Denver (4) · Washington, DC (1) · Atlanta (1) · Dallas (1) · Miami (1) · Philadelphia (1) · Remote (67) · Elsewhere in the US (28)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when keywords in its title say it is a customer success role, so one can land on the wrong list. A role in several cities is listed once, under the first of them. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
 A bad listing? Email hello@warmada.com with the link.
 
-## New York (28)
+## New York (27)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -41,7 +41,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [Watershed](https://warmada.com/companies/watershed?utm_source=github&utm_medium=list&utm_campaign=customer-success) | Customer success manager, enterprise | New York City | Oct 27 | [Apply](https://jobs.ashbyhq.com/Watershed/b02c5207-d023-4bf3-92d9-90a92e559225) · [Find the hiring manager](https://warmada.com/job/watershed-customer-success-manager-enterprise-69b9a421-19d5-4574-bca5-63c5653e69c8?utm_source=github&utm_medium=list&utm_campaign=customer-success) |
 | [norm.ai](https://warmada.com/companies/norm-ai?utm_source=github&utm_medium=list&utm_campaign=customer-success) | Technology Support Specialist | New York City | Oct 27 | [Apply](https://jobs.ashbyhq.com/norm/1d885861-177f-43b8-a601-d8704ee820a8) · [Find the hiring manager](https://warmada.com/job/norm-ai-technology-support-specialist-e2482a26-9656-4782-af03-5ba2c6429306?utm_source=github&utm_medium=list&utm_campaign=customer-success) |
 | fireworks.ai | IT Support Engineer | New York | Oct 26 | [Apply](https://jobs.ashbyhq.com/fireworks/d6540b5f-fe22-4b7a-bf18-48fb2212cd4b) · [Find the hiring manager](https://warmada.com/job/fireworks-ai-it-support-engineer-1a0f7e24-f1a2-4cf0-81a5-3929df28fe9b?utm_source=github&utm_medium=list&utm_campaign=customer-success) |
-| Dashlane | Customer Success Manager | New York, NY | Oct 26 | [Apply](https://job-boards.greenhouse.io/dashlane/jobs/8319455) · [Find the hiring manager](https://warmada.com/job/dashlane-customer-success-manager-3b97504a-88ce-408a-bb45-4b91ea6092b4?utm_source=github&utm_medium=list&utm_campaign=customer-success) |
 
 ## San Francisco (26)
 
@@ -79,7 +78,7 @@ A bad listing? Email hello@warmada.com with the link.
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
 | read.ai | Director of Customer Success | Read AI - Seattle HQ | Nov 6 | [Apply](https://jobs.ashbyhq.com/read-ai/6298d380-2985-40e6-b6e9-fda31d8aaa77) · [Find the hiring manager](https://warmada.com/job/read-ai-director-of-customer-success-aeabc64e-4b42-4648-ab8b-8370ab22291b?utm_source=github&utm_medium=list&utm_campaign=customer-success) |
-| pearlhealth.com | Customer Success Manager | Seattle, Los Angeles, San Francisco or Remote | Oct 27 | [Apply](https://jobs.ashbyhq.com/pearlhealth/4766bfe2-a1bd-496b-b19e-3aa6fc5fd57c) · [Find the hiring manager](https://warmada.com/job/pearlhealth-com-customer-success-manager-cb816e4d-1581-49bc-a65e-bbbeed253083?utm_source=github&utm_medium=list&utm_campaign=customer-success) |
+| [pearlhealth.com](https://warmada.com/companies/pearlhealth-com?utm_source=github&utm_medium=list&utm_campaign=customer-success) | Customer Success Manager | Seattle, Los Angeles, San Francisco or Remote | Oct 27 | [Apply](https://jobs.ashbyhq.com/pearlhealth/4766bfe2-a1bd-496b-b19e-3aa6fc5fd57c) · [Find the hiring manager](https://warmada.com/job/pearlhealth-com-customer-success-manager-cb816e4d-1581-49bc-a65e-bbbeed253083?utm_source=github&utm_medium=list&utm_campaign=customer-success) |
 
 ## Austin (4)
 
@@ -147,7 +146,7 @@ A bad listing? Email hello@warmada.com with the link.
 | --- | --- | --- | --- | --- |
 | [HealthVerity](https://warmada.com/companies/healthverity?utm_source=github&utm_medium=list&utm_campaign=customer-success) | Desktop Support Engineer | Philadelphia, PA | Nov 1 | [Apply](https://healthverity.com/careers/jobs/?gh_jid=5469334008) · [Find the hiring manager](https://warmada.com/job/healthverity-desktop-support-engineer-6e4f549d-6968-45f1-bfe8-e228a987e0fa?utm_source=github&utm_medium=list&utm_campaign=customer-success) |
 
-## Remote (69)
+## Remote (67)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -205,7 +204,7 @@ A bad listing? Email hello@warmada.com with the link.
 | Kustomer | Technical Support Engineer | US - Remote | Oct 29 | [Apply](https://jobs.ashbyhq.com/Kustomer/f5936ba0-85eb-4409-81ae-979c3d978ba4) · [Find the hiring manager](https://warmada.com/job/kustomer-technical-support-engineer-8a757898-b25a-48e3-a0c2-022dd1a29113?utm_source=github&utm_medium=list&utm_campaign=customer-success) |
 | [equip.health](https://warmada.com/companies/equip-health?utm_source=github&utm_medium=list&utm_campaign=customer-success) | Product Support Associate (Temporary) | Remote - USA | Oct 29 | [Apply](https://jobs.ashbyhq.com/equip/bc2b76b5-be92-4ffb-92ef-f4e0d7ee6546) · [Find the hiring manager](https://warmada.com/job/equip-health-product-support-associate-temporary-b877e6e4-2177-413f-a23c-d46ce2ad3c01?utm_source=github&utm_medium=list&utm_campaign=customer-success) |
 | [JFrog](https://warmada.com/companies/jfrog?utm_source=github&utm_medium=list&utm_campaign=customer-success) | Senior Professional Services DevOps Engineer | Remote, US | Oct 29 | [Apply](https://join.jfrog.com/job/?job=8285651&gh_jid=8285651) · [Find the hiring manager](https://warmada.com/job/jfrog-senior-professional-services-devops-engineer-d4cd50ce-60b0-463b-a2b6-934f9d60874e?utm_source=github&utm_medium=list&utm_campaign=customer-success) |
-| [intellistack.com](https://warmada.com/companies/intellistack-com?utm_source=github&utm_medium=list&utm_campaign=customer-success) | Customer Billing Support Specialist | Remote/United States | Oct 28 | [Apply](https://jobs.ashbyhq.com/Intellistack/b2a0bf1c-2f4f-416c-b994-ab6fe97e2349) · [Find the hiring manager](https://warmada.com/job/intellistack-com-customer-billing-support-specialist-778551bd-b446-45be-a875-d5f4398c28e9?utm_source=github&utm_medium=list&utm_campaign=customer-success) |
+| intellistack.com | Customer Billing Support Specialist | Remote/United States | Oct 28 | [Apply](https://jobs.ashbyhq.com/Intellistack/b2a0bf1c-2f4f-416c-b994-ab6fe97e2349) · [Find the hiring manager](https://warmada.com/job/intellistack-com-customer-billing-support-specialist-778551bd-b446-45be-a875-d5f4398c28e9?utm_source=github&utm_medium=list&utm_campaign=customer-success) |
 | [augusthealth.com](https://warmada.com/companies/augusthealth-com?utm_source=github&utm_medium=list&utm_campaign=customer-success) | Customer Success Manager | United States | Oct 28 | [Apply](https://jobs.ashbyhq.com/august-health/1dc57a2a-3713-492b-adaf-22d555636717) · [Find the hiring manager](https://warmada.com/job/augusthealth-com-customer-success-manager-63900f99-455c-4b84-ac82-fd91321b39c3?utm_source=github&utm_medium=list&utm_campaign=customer-success) |
 | spekit.com | Senior Customer Success Manager | United States | Oct 28 | [Apply](https://jobs.ashbyhq.com/spekit/eeaf5b8d-5e5c-4de1-8314-201159f4fce7) · [Find the hiring manager](https://warmada.com/job/spekit-com-senior-customer-success-manager-c708bbd6-8974-4cc9-a689-092e8decc766?utm_source=github&utm_medium=list&utm_campaign=customer-success) |
 | [Nebius](https://warmada.com/companies/nebius?utm_source=github&utm_medium=list&utm_campaign=customer-success) | Senior Support Engineer | Remote - United States | Oct 28 | [Apply](https://careers.nebius.com/?gh_jid=5010126101) · [Find the hiring manager](https://warmada.com/job/nebius-senior-support-engineer-bc15368f-8840-428c-9bee-96d25204fe2d?utm_source=github&utm_medium=list&utm_campaign=customer-success) |
@@ -218,10 +217,8 @@ A bad listing? Email hello@warmada.com with the link.
 | [GitLab](https://warmada.com/companies/gitlab?utm_source=github&utm_medium=list&utm_campaign=customer-success) | Senior Professional Services Engineer - PubSec - DC Metro | Remote, United States | Oct 27 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8838394002) · [Find the hiring manager](https://warmada.com/job/gitlab-senior-professional-services-engineer-pubsec-dc-metro-40b2cab0-0942-4cbf-bcb6-b2b3f5515b81?utm_source=github&utm_medium=list&utm_campaign=customer-success) |
 | [openrouter.ai](https://warmada.com/companies/openrouter-ai?utm_source=github&utm_medium=list&utm_campaign=customer-success) | Scaled Support Specialist | Remote (US) | Oct 27 | [Apply](https://jobs.ashbyhq.com/openrouter/89ff6b47-ba08-4418-b24b-c136dbf2ef82) · [Find the hiring manager](https://warmada.com/job/openrouter-ai-scaled-support-specialist-968e5ccf-79d8-4222-9e2d-85e5e23364db?utm_source=github&utm_medium=list&utm_campaign=customer-success) |
 | [openrouter.ai](https://warmada.com/companies/openrouter-ai?utm_source=github&utm_medium=list&utm_campaign=customer-success) | Enterprise Support Engineer (West Coast) | Remote (US) | Oct 27 | [Apply](https://jobs.ashbyhq.com/openrouter/7088bf7a-6ed7-4c35-bd61-6303e712205c) · [Find the hiring manager](https://warmada.com/job/openrouter-ai-enterprise-support-engineer-west-coast-d891cfd0-7d1e-49fc-a3b3-7036e1a6607f?utm_source=github&utm_medium=list&utm_campaign=customer-success) |
-| runpod.io | Technical Support Engineer (L1) | Remote - USA | Oct 26 | [Apply](https://jobs.ashbyhq.com/runpod/f9f9e6f1-4203-4ea9-a9b4-4a108e684372) · [Find the hiring manager](https://warmada.com/job/runpod-io-technical-support-engineer-l1-ecb52b16-7d8c-4d20-9bef-6e5b0b525ebb?utm_source=github&utm_medium=list&utm_campaign=customer-success) |
-| [Ashby](https://warmada.com/companies/ashby?utm_source=github&utm_medium=list&utm_campaign=customer-success) | SMB Customer Success Manager - Americas | Remote - US | Oct 26 | [Apply](https://jobs.ashbyhq.com/Ashby/dd3601fc-3a21-467b-aaff-43fceb65864b) · [Find the hiring manager](https://warmada.com/job/ashby-smb-customer-success-manager-americas-26ec5488-3af3-4098-8a63-524fcfcdbaa9?utm_source=github&utm_medium=list&utm_campaign=customer-success) |
 
-## Elsewhere in the US (31)
+## Elsewhere in the US (28)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -253,6 +250,3 @@ A bad listing? Email hello@warmada.com with the link.
 | [IXL Learning](https://warmada.com/companies/ixl-learning?utm_source=github&utm_medium=list&utm_campaign=customer-success) | Implementation Specialist, Texas | Texas | Oct 28 | [Apply](https://www.ixl.com/company/jobs?gh_jid=8921724002) · [Find the hiring manager](https://warmada.com/job/ixl-learning-implementation-specialist-texas-2ee8b816-aee2-48c0-b788-c51ed405f28f?utm_source=github&utm_medium=list&utm_campaign=customer-success) |
 | [AEVEX](https://warmada.com/companies/aevex?utm_source=github&utm_medium=list&utm_campaign=customer-success) | Engineering Support Specialist | Tampa, Florida, United States | Oct 27 | [Apply](https://job-boards.greenhouse.io/aevexaerospace/jobs/5449159008) · [Find the hiring manager](https://warmada.com/job/aevex-engineering-support-specialist-449657bf-4d7a-4ee9-940f-e395a4dfd27a?utm_source=github&utm_medium=list&utm_campaign=customer-success) |
 | [EOS](https://warmada.com/companies/eos?utm_source=github&utm_medium=list&utm_campaign=customer-success) | Audio Visual Sales Support Engineer | United States of America | Oct 26 | [Apply](https://eosits.com/company/careers/?gh_jid=8918107002) · [Find the hiring manager](https://warmada.com/job/eos-audio-visual-sales-support-engineer-eebfef9a-14d2-4d34-9474-5d4272650373?utm_source=github&utm_medium=list&utm_campaign=customer-success) |
-| Litify | VP, Law Firm Professional Services | Anywhere, USA | Oct 26 | [Apply](https://job-boards.greenhouse.io/litify/jobs/8325339) · [Find the hiring manager](https://warmada.com/job/litify-vp-law-firm-professional-services-83b48335-f136-4114-9440-75f51e3d5f58?utm_source=github&utm_medium=list&utm_campaign=customer-success) |
-| [ZoomInfo](https://warmada.com/companies/zoominfo?utm_source=github&utm_medium=list&utm_campaign=customer-success) | Manager, GTM Engineering (Professional Services) | Waltham, Massachusetts, United States | Oct 26 | [Apply](https://www.zoominfo.com/careers?gh_jid=8880471002) · [Find the hiring manager](https://warmada.com/job/zoominfo-manager-gtm-engineering-professional-services-bdf6e2be-b912-43a6-97af-3a832b6222ae?utm_source=github&utm_medium=list&utm_campaign=customer-success) |
-| [Machinify](https://warmada.com/companies/machinify?utm_source=github&utm_medium=list&utm_campaign=customer-success) | Client Services Operations Support Representative (SCA) - ON-SITE | Lathrop, CA | Oct 26 | [Apply](https://job-boards.greenhouse.io/machinifyinc/jobs/4467347009) · [Find the hiring manager](https://warmada.com/job/machinify-client-services-operations-support-representative-sca-on-site-580866b2-1f7b-4b56-b648-26b31a6926ed?utm_source=github&utm_medium=list&utm_campaign=customer-success) |
